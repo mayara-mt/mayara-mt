@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate and incentivate more women work with technology
 - 📫 How to reach me: 
 https://www.linkedin.com/in/mayara-madeira-trevisol/
-https://www.instagram.com/may_trevisol/
 
 <!---
 mayara-mt/mayara-mt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
