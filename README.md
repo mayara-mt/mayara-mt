@@ -2,7 +2,7 @@
 
 
 # About Me
-- 👋 - Hi, I’m @mayara-mt
+- 👋 Hi, I’m Mayara Madeira Trevisol
 - 👀 I'm interested in improve my experience with Data Analytics
 - 📖 I'm currently learning more about Power BI
 - 🥰 I’m looking to collaborate and incentivate more women work with technology
